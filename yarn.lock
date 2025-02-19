@@ -105,9 +105,11 @@
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/@heroicons/react/-/react-2.2.0.tgz#0c05124af50434a800773abec8d3af6a297d904b"
 
-"@hookform/resolvers@^3.10.0":
-  version "3.10.0"
-  resolved "https://registry.yarnpkg.com/@hookform/resolvers/-/resolvers-3.10.0.tgz#7bfd18113daca4e57e27e1205b7d5a2d371aa59a"
+"@hookform/resolvers@^4.1.0":
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/@hookform/resolvers/-/resolvers-4.1.0.tgz#17ba2b68d2883be6a06af1c7507be8e7c2f684b9"
+  dependencies:
+    caniuse-lite "^1.0.30001698"
 
 "@humanfs/core@^0.19.1":
   version "0.19.1"
@@ -675,9 +677,9 @@ callsites@^3.0.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/callsites/-/callsites-3.1.0.tgz#b3630abd8943432f54b3f0519238e33cd7df2f73"
 
-caniuse-lite@^1.0.30001579, caniuse-lite@^1.0.30001646, caniuse-lite@^1.0.30001688:
-  version "1.0.30001689"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001689.tgz#67ca960dd5f443903e19949aeacc9d28f6e10910"
+caniuse-lite@^1.0.30001579, caniuse-lite@^1.0.30001646, caniuse-lite@^1.0.30001688, caniuse-lite@^1.0.30001698:
+  version "1.0.30001700"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001700.tgz#26cd429cf09b4fd4e745daf4916039c794d720f6"
 
 chalk@^4.0.0:
   version "4.1.2"
