@@ -1874,9 +1874,9 @@ react-feather@^2.0.10:
   dependencies:
     prop-types "^15.7.2"
 
-react-hook-form@^7.55.0:
-  version "7.55.0"
-  resolved "https://registry.yarnpkg.com/react-hook-form/-/react-hook-form-7.55.0.tgz#df3c80a20a68f6811f49bec3406defaefb6dce80"
+react-hook-form@^7.56.0:
+  version "7.56.0"
+  resolved "https://registry.yarnpkg.com/react-hook-form/-/react-hook-form-7.56.0.tgz#2ab5911a959f0173f4194849615d73a4fff39390"
 
 react-hot-toast@^2.5.2:
   version "2.5.2"
